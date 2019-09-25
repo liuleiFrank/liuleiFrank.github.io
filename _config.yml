@@ -5,7 +5,7 @@ css: /css/jupyter.css
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://binlidaily.github.io"
+url: "https://liuleiFrank.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -24,13 +24,13 @@ description: Know Thyself
 
 # List of links in the navigation bar
 navbar-links:
-  Blogs: "https://binlidaily.github.io"
+  Blogs: "https://liuleiFrank.github.io"
   Outlines:
-    - Algorithms: "https://binlidaily.github.io/2018-10-17-algorithms/"
-    - Projects: "https://binlidaily.github.io/2019-01-14-projects/"
-    - Coding: "https://binlidaily.github.io/2018-10-23-coding/"
-    - Reading: "https://binlidaily.github.io/2019-04-18-reading/"
-    - Articles: "https://binlidaily.github.io/2019-05-24-articles/"
+    - Algorithms: "https://liuleiFrank.github.io/2018-10-17-algorithms/"
+    - Projects: "https://liuleiFrank.github.io/2019-01-14-projects/"
+    - Coding: "https://liuleiFrank.github.io/2018-10-23-coding/"
+    - Reading: "https://liuleiFrank.github.io/2019-04-18-reading/"
+    - Articles: "https://liuleiFrank.github.io/2019-05-24-articles/"
   About Me: "aboutme"
   # search: "search"
 
